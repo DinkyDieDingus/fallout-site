@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Overseer";
+    src: url('@/assets/fonts/Overseer.otf');
+}
+
+@font-face {
+    font-family: "Monofonto";
+    src: url('@/assets/fonts/monofonto rg.otf');
+}
+
+@font-face {
+    font-family: "Gothic 821";
+    src: url('@/assets/fonts/Gothic 821 Condensed BT.ttf');
+}
+
+body {
+    font-family: "Monofonto";
+    color: #ffb642;
+    background-color: black;
+    background-image:
+        repeating-linear-gradient(
+            0deg,
+            transparent 0 20px,
+            #cccccc19 21px,
+            transparent 22px
+        ),
+        radial-gradient(#ffb7422d, black);
+    background-attachment: scroll;
+    height: 100vh;
+}
+

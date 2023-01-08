@@ -1,0 +1,48 @@
+{
+    "categories": [
+        {
+            "title": "Books",
+            "links": [
+                {
+                    "name": "Latest Rulebook",
+                    "url": "/rulebook-latest/"
+                },
+                {
+                    "name": "Latest Errata",
+                    "url": "/errata-latest/"
+                }
+            ]
+        },
+        {
+            "title": "Maps",
+            "links": [
+                {
+                    "name": "World Map",
+                    "url": "/map/"
+                }
+            ]
+        },
+        {
+            "title": "Story",
+            "links": [
+                {
+                    "name": "The Story So Far",
+                    "url": "https://docs.google.com/document/d/1Euo7xP1N_rPaQftdnT2kYEoqB8Ueqzx6yEvkRG-KBXw/edit?usp=sharing"
+                },
+                {
+                    "name": "Notes",
+                    "url": "https://docs.google.com/document/d/17JmkQeOQYIYpwlzzLeTeDCv2_FWj9wQGSfXdQ2RLEG8/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Inventory",
+            "links": [
+                {
+                    "name": "Group Inventory",
+                    "url": "https://docs.google.com/spreadsheets/d/1ZcI4yPVQorSc60tAXJ5Mmm38gtN89-zATGmPTjEmLYo/edit?usp=sharing"
+                }
+            ]
+        }
+    ]
+}
