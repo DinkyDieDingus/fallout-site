@@ -1,6 +1,9 @@
 # fallout-site
 
-This template should help get you started developing with Vue 3 in Vite.
+Personal site used as a homepage for information about Fallout Colorado TTPRG game I run.
+
+## Fonts
+Fonts are not included, the required fonts must be added to src/assets/fonts
 
 ## Recommended IDE Setup
 
