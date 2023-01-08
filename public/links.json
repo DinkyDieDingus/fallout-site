@@ -5,11 +5,13 @@
             "links": [
                 {
                     "name": "Latest Rulebook",
-                    "url": "/rulebook-latest/"
+                    "url": "/rulebook-latest/",
+                    "icon": "fa-book"
                 },
                 {
                     "name": "Latest Errata",
-                    "url": "/errata-latest/"
+                    "url": "/errata-latest/",
+                    "icon": "fa-circle-exclamation"
                 }
             ]
         },
@@ -18,7 +20,8 @@
             "links": [
                 {
                     "name": "World Map",
-                    "url": "/map/"
+                    "url": "/map/",
+                    "icon": "fa-map"
                 }
             ]
         },
@@ -27,11 +30,18 @@
             "links": [
                 {
                     "name": "The Story So Far",
-                    "url": "https://docs.google.com/document/d/1Euo7xP1N_rPaQftdnT2kYEoqB8Ueqzx6yEvkRG-KBXw/edit?usp=sharing"
+                    "url": "https://docs.google.com/document/d/1Euo7xP1N_rPaQftdnT2kYEoqB8Ueqzx6yEvkRG-KBXw/edit?usp=sharing",
+                    "icon": "fa-book-open"
                 },
                 {
                     "name": "Notes",
-                    "url": "https://docs.google.com/document/d/17JmkQeOQYIYpwlzzLeTeDCv2_FWj9wQGSfXdQ2RLEG8/edit?usp=sharing"
+                    "url": "https://docs.google.com/document/d/17JmkQeOQYIYpwlzzLeTeDCv2_FWj9wQGSfXdQ2RLEG8/edit?usp=sharing",
+                    "icon": "fa-note-sticky"
+                },
+                {
+                    "name": "Player Backstories",
+                    "url": "https://docs.google.com/document/d/1w_-SX7_B5nBamVZDdn2Ic2B9w-amsK1Ab541ggYpJws/edit?usp=sharing",
+                    "icon": "fa-pen-to-square"
                 }
             ]
         },
@@ -40,7 +50,19 @@
             "links": [
                 {
                     "name": "Group Inventory",
-                    "url": "https://docs.google.com/spreadsheets/d/1ZcI4yPVQorSc60tAXJ5Mmm38gtN89-zATGmPTjEmLYo/edit?usp=sharing"
+                    "url": "https://docs.google.com/spreadsheets/d/1ZcI4yPVQorSc60tAXJ5Mmm38gtN89-zATGmPTjEmLYo/edit?usp=sharing",
+                    "icon": "fa-sack-dollar"
+                }
+            ]
+        },
+        {
+            "title": "Code",
+            "links": [
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/DinkyDieDingus/fallout-site",
+                    "icon": "fa-github",
+                    "iconIsBrand": "true"
                 }
             ]
         }
